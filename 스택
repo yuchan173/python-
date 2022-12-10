@@ -1,0 +1,12 @@
+stack = [1,2,3]
+stack.append(4)#원소추가
+ 
+stack
+
+#===============================
+
+stack = [1,2,3]
+top = stack.pop()#원소 제거
+ 
+print(top)
+stack
